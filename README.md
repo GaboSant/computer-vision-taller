@@ -1,4 +1,4 @@
-# 📖 Explicación del script de pruebas
+# 📖 Explicación del script de main
 
 Este archivo define los **parámetros de prueba** y permite ejecutar diferentes funciones de verificación implementadas en los módulos `test_color`, `test_camera` y `test_filters`.
 De esta forma, podemos comprobar fácilmente cómo se comportan las transformaciones de color, las distorsiones de cámara y los filtros clásicos de visión por computador.
